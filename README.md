@@ -216,4 +216,6 @@ Security configuration:
 
 **Nikita Sumant**
 
-AWS DevOps Engineer Portfolio Project
+- AWS DevOps Engineer (Aspiring)
+- GitHub: https://github.com/Nikita021998
+- Project: AWS DevOps CI/CD Portfolio Project
